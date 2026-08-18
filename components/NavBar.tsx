@@ -23,7 +23,6 @@ export default function NavBar() {
             <div className="flex justify-end gap-8 font-[dm-sans] ">
                 <ul className="flex flex-col gap-2">
                     <li>SERVICES</li>
-                    <li>TESTIMONIALS</li>
                     <li>CONTACT</li>
                 </ul>
             </div>
