@@ -6,8 +6,8 @@ export default function NavBar() {
             <div className="flex gap-8 font-[dm-sans]">
                 <ul className="flex flex-col gap-2">
                     <li className="cursor-pointer transition-opacity duration-300 hover:opacity-50">HOME</li>
-                    <li>PORTFOLIO</li>
-                    <li>ABOUT</li>
+                    <li className="cursor-pointer transition-opacity duration-300 hover:opacity-50">PORTFOLIO</li>
+                    <li className="cursor-pointer transition-opacity duration-300 hover:opacity-50">ABOUT</li>
                 </ul>
             </div>
 
@@ -22,8 +22,8 @@ export default function NavBar() {
 
             <div className="flex justify-end gap-8 font-[dm-sans] ">
                 <ul className="flex flex-col gap-2">
-                    <li>SERVICES</li>
-                    <li>CONTACT</li>
+                    <li className="cursor-pointer transition-opacity duration-300 hover:opacity-50">SERVICES</li>
+                    <li className="cursor-pointer transition-opacity duration-300 hover:opacity-50">CONTACT</li>
                 </ul>
             </div>
         </div>

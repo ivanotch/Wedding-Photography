@@ -27,7 +27,7 @@ export default function Hero() {
                         remembering.
                     </h1>
 
-                    <button className="mt-8 border border-white/60 px-8 py-3 text-xs tracking-[0.25em]">
+                    <button className="mt-8 border border-white/60 px-8 py-3 text-xs tracking-[0.25em] transition-all duration-500 hover:border-black hover:bg-[#1c1b19] hover:text-[#f7f4ef]">
                         VIEW OUR WORK
                     </button>
                 </div>
